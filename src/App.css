@@ -23,6 +23,20 @@ h1 {
 .App-title {
   font-size: 1.5em;
 }
+.social-icon{
+  margin-right: 5px;
+  -webkit-border-radius: 50%; 
+  -moz-border-radius: 50%; 
+  border-radius: 50%; 
+  background-color: white;
+  border: 2px solid whitesmoke;
+  transition: transform .5s;
+}
+.social-icon:hover{
+  -webkit-transform: scale(1.2);  
+      -ms-transform: scale(1.2);  
+          transform: scale(1.2);   
+}
 
 .App-intro {
   font-size: large;
