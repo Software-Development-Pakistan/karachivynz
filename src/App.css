@@ -2,19 +2,17 @@
   text-align: center;
   height: 100vh;
   background-color: #222;
-  font-family: 'Gugi', cursive;
+  font-family: "Gugi", cursive;
   color: white;
 }
-.App-logo{
+.App-logo {
   max-width: 80%;
 }
-h1{
+h1 {
   margin-top: 4px;
 }
- 
 
 .App-header {
- 
   padding: 20px;
   color: white;
 }
@@ -26,4 +24,8 @@ h1{
 .App-intro {
   font-size: large;
 }
- 
+@media screen and (max-width: 800px) {
+  .App-logo {
+    max-width: 100%;
+  }
+}
