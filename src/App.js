@@ -20,7 +20,7 @@ class App extends Component {
           following channels.
         </p>
         <SocialIcon className="social-icon" url="https://www.facebook.com/officialkarachivynz/" />
-        <SocialIcon className="social-icon" url="https://www.youtube.com/channel/UC3nzFvADzctm2hdQYrSurgg" />
+        <SocialIcon className="social-icon" url="https://www.youtube.com/KarachiVynzOfficialVideos" />
         <SocialIcon className="social-icon" url="https://www.instagram.com/officialkarachivynz/?hl=en" />
         <div className="footer" >
           <p>Copyright © 2018 Karachi Vynz. All rights reserved </p>
